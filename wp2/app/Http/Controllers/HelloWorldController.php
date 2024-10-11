@@ -10,13 +10,9 @@ class HelloWorldController extends Controller
     {
         return "saya sedang belajar laravel 11";
     }
-<<<<<<< HEAD
-}
-=======
     public function ambilFile()
     {
         return view('ambilfile');
     }
 }
     
->>>>>>> 78e9dcb (first commit)
